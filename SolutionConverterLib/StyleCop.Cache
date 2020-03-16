@@ -1,0 +1,142 @@
+<stylecopresultscache>
+  <version>10</version>
+  <sourcecode name="StringValueAttribute.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 04:47:56</timestamp>
+    <milliseconds>543</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="FileMayOnlyContainASingleClass" ruleCheckId="SA1402">
+        <context>A C# document may only contain a single class at the root level unless all of the classes are partial and are of the same type.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="IConvter.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/18/2010 16:21:31</timestamp>
+    <milliseconds>908</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="PropertySummaryDocumentationMustMatchAccessors" ruleCheckId="SA1623">
+        <context>The property's documentation summary text must begin with: Gets a value indicating whether</context>
+        <line>43</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-384093396">
+    <configuration>TRACE</configuration>
+  </project>
+  <sourcecode name="IConverter.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/19/2010 00:10:00</timestamp>
+    <milliseconds>506</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ConversionResult.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/18/2010 21:54:04</timestamp>
+    <milliseconds>539</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>2</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>3</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>4</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The enum must have a documentation header.</context>
+        <line>8</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
+        <context>The class must have a documentation header.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>34</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>39</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/17/2010 05:10:02</timestamp>
+    <milliseconds>53</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="ProjectConverter.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/19/2010 00:11:02</timestamp>
+    <milliseconds>83</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="SolutionConverter.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/19/2010 00:11:02</timestamp>
+    <milliseconds>129</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to projectConversionResults must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>84</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="SolutionVersion.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>04/17/2010 05:09:59</timestamp>
+      <milliseconds>970</milliseconds>
+    </settings>
+    <timestamp>04/18/2010 16:17:52</timestamp>
+    <milliseconds>210</milliseconds>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
